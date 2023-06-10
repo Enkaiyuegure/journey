@@ -1,1 +1,1 @@
-# cpp-wiki
+# wiki
